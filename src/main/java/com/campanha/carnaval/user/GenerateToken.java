@@ -1,4 +1,4 @@
-package com.quarkus.user;
+package com.campanha.carnaval.user;
 
 import java.util.Arrays;
 import java.util.HashSet;

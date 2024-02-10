@@ -6,3 +6,4 @@ bin/
 mvnw
 .mvn/wrapper
 mvnw.cmd
+/target/
