@@ -1,4 +1,4 @@
-package com.quarkus.user.dto;
+package com.campanha.carnaval.user.dto;
 
 public class CreateUserRequest {
     private String email;

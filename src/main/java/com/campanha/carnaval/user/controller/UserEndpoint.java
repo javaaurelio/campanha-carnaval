@@ -1,4 +1,4 @@
-package com.quarkus.user.controller;
+package com.campanha.carnaval.user.controller;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -8,8 +8,8 @@ import org.eclipse.microprofile.jwt.Claim;
 import org.eclipse.microprofile.jwt.Claims;
 import org.eclipse.microprofile.jwt.JsonWebToken;
 
-import com.quarkus.user.model.User;
-import com.quarkus.user.repository.Users;
+import com.campanha.carnaval.user.model.User;
+import com.campanha.carnaval.user.repository.Users;
 
 import io.smallrye.jwt.build.Jwt;
 import jakarta.annotation.security.DenyAll;

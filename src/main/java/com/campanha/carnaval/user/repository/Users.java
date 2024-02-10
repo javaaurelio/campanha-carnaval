@@ -1,10 +1,10 @@
-package com.quarkus.user.repository;
+package com.campanha.carnaval.user.repository;
 
 import java.util.List;
 import java.util.Objects;
 import java.util.Optional;
 
-import com.quarkus.user.model.User;
+import com.campanha.carnaval.user.model.User;
 
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.persistence.EntityManager;

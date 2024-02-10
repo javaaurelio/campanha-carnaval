@@ -1,4 +1,4 @@
-package com.quarkus.user.model;
+package com.campanha.carnaval.user.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
